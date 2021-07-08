@@ -1,0 +1,14 @@
+body {
+	font-size: 150%;
+	color: red;
+	width: 600px;
+	margin: 0 auto;
+}
+
+#main {
+	color: blue;
+}
+.list-item {
+	color: green;
+	padding: 20px;
+}
